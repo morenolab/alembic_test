@@ -1,0 +1,191 @@
+---
+layout: page
+title: "Team"
+description: "CINVESTAV Sede Sur, Mexico"
+feature_image: "images/team/portada2026.png"
+order: 2
+---
+
+## Andrés Moreno Estrada
+**Principal Investigator**
+
+![Andrés Moreno Estrada](images/team/Andres_Moreno)
+
+I am a medical doctor and population geneticist deeply interested in molecular evolution and its implications in human population history and medical genomics. During my PhD I was trained in evolutionary and population genetics, which complemented my previous medical background. As a postdoctoral fellow with Dr. Carlos Bustamante and research associate at Stanford University, my work integrated genomics, evolution and precision medicine in many different projects involving large collections of populations, in particular from the Americas and the Pacific. Our group is interested in human evolution, adaptation, and population history as well as the biomedical implications of human genetic diversity in underserved populations of the world.
+
+[Email](mailto:popgenlab@cinvestav.mx) · [Twitter](https://twitter.com/morestrada) · [Google Scholar](https://scholar.google.com.mx/citations?user=e8sFFesAAAAJ&hl=en)
+
+---
+
+## Flor de María Montes de Oca González
+**Laboratory Manager**
+
+![Flor Montes de Oca](images/team/Flor.jpeg)
+
+I am the Lab Manager at the Moreno Lab, where I support the coordination, organization, and day-to-day operations of the lab, contributing to the smooth development of research projects and collaborative activities. I have extensive experience in project management, institutional coordination, and international cooperation, with a strong background in human rights, gender, and public policy. I hold a Master's degree in Human Rights, a specialization in Gender and Law, and undergraduate degrees in Law and International Relations. I have over 20 years of experience working across government institutions, international organizations, and civil society, including roles at the National Human Rights Commission of Mexico (CNDH), the National Institute for Women (Inmujeres), and the Ministry of Foreign Affairs (SRE). Outside the lab, I enjoy book clubs and theater, and spend a surprising amount of time trying to keep my plants alive.
+
+[Email](mailto:popgenlab@cinvestav.mx)
+
+---
+
+## Postdoctoral Fellows
+
+### Daniel Bustos Diaz
+
+![Daniel Bustos Diaz](images/team/Flor.jpeg)
+
+Text
+
+[Email](mailto:edder.bustos@cinvestav.mx)
+
+---
+
+### José Antonio Corona (Josian)
+
+![José Antonio Corona](images/team/Flor.jpeg)
+
+Text
+
+[Email](mailto:jose.corona@cinvestav.mx) · [Twitter](https://x.com/JAntonioCorona)
+
+---
+
+### Marisol Naydú Espitia Fajardo
+
+![Marisol Naydú Espitia Fajardo](images/team/Flor.jpeg)
+
+Text
+
+[Twitter](https://x.com/Marisolbiologie)
+
+---
+
+### Consuelo Dayzú Quinto Cortés
+
+![Consuelo Quinto-Cortes](images/team/Consuelo_Quinto.png)
+
+Text
+
+[Email](mailto:consuelo.quinto@cinvestav.mx)
+
+---
+
+### Camila Tamburrini
+
+![Camila Tamburrini](images/team/Consuelo_Quinto.png)
+
+Text
+
+[Email](mailto:camila.tamburrini@cinvestav.mx) · [Twitter](https://x.com/camitamburrini)
+
+---
+
+## PhD Students
+
+### Carmina Barberena-Jonas
+
+![Carmina Barberena-Jonas](images/team/Flor.jpeg)
+
+Text
+
+[Email](mailto:carmina.barberena@cinvestav.mx) · [Twitter](https://x.com/BarjonCar) · [Google Scholar](https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=es)
+
+---
+
+### María Fernanda Elías Navarro
+
+![María Fernanda Elías Navarro](images/team/Flor.jpeg)
+
+I am Maria Fernanda Elias Navarro, originally from Guadalajara, where I earned my undergraduate degree in Biology from the University of Guadalajara. I later completed a master's degree in Integrative Biology, focusing on introgression analysis among archaic hominins. Currently, I am a second-semester PhD student in Integrative Biology, specializing in paleogenomic analyses of an archaeological site in Xalla, Teotihuacan. I am passionate about evolution and population genomics. In my free time, I enjoy playing volleyball, watching horror movies, and spending time with my dogs.
+
+[Email](mailto:maria.eliasn@cinvestav.mx) · [Twitter](https://x.com/fherelias04)
+
+---
+
+### Aaron Espinosa Jaime
+
+![Aaron Espinosa Jaime](images/team/Flor.jpeg)
+
+I'm a first year PhD student interested in computational human genomics. During my master's I contributed bioinformatically to map an immune atlas using single-cell transcriptomics (LatinCells). However, I have also been involved in microbiome and science outreach projects. Since 2023 I've been an active member of RSG-México (ISCB), a platform that brings people closer to computational biology, enabling them to use it as a tool for work and communication. Currently, my research focuses on describing novel ageing-associated DNA methylation patterns in Latin American populations using long-read sequencing kinetics (LatinGenomes). Perfect plan? Hiking and plant shopping.
+
+[Email](mailto:ram.gonzalez@cinvestav.mx)
+
+---
+
+### Ram González
+
+![Ram González](images/team/Flor.jpeg)
+
+I am a computational biologist with a strong interest in genetics and evolution. My research focuses on understanding how natural selection has shaped human populations from Latin America and Oceania. I work at the intersection of population genomics, evolutionary theory, anthropology, and data science, with a particular emphasis on genetic diversity, admixture, and local adaptation. Outside of work, I enjoy learning about design, traveling, and spending time outdoors.
+
+[Email](mailto:ram.gonzalez@cinvestav.mx) · [Twitter](https://twitter.com/ramgonzalezb) · [Google Scholar](https://scholar.google.com/citations?user=u53FkjQAAAAJ&hl=en)
+
+---
+
+### Santiago Medina
+
+![Santiago Medina](images/team/Santiago.jpg)
+
+I am a computational biologist with a degree in Agro-genomic Sciences at UNAM. My research passion lies in evolutionary genetics, with a focus on understanding population history and migration dynamics in Indigenous populations from Mexico. I also have a deep interest in mathematics—especially probability theory. Outside of my academic work, I enjoy spending time with friends and exploring nature through hiking or gravel biking. These days, I heroically attempt to finish my PhD.
+
+[Email](mailto:santiago.medina@cinvestav.mx) · [Website](https://sequoia-tamarillo-4a9.notion.site/Santiago-G-Medina-Mu-oz-c9630a6344dd46f28acf262a4fc7b28b/) · [Google Scholar](https://scholar.google.com/citations?user=XW3Sz1kAAAAJ&hl=es&oi=ao)
+
+---
+
+### Daniela Orozco
+
+![Daniela Orozco](images/team/Daniela.jpeg)
+
+I'm Daniela Orozco, currently finishing my PhD in ancient DNA research. I studied Genomic Sciences at UNAM, where I first developed my long-standing fascination with evolution. My current project focuses on Cañada de la Virgen, an archaeological site in Mexico, where I study the genetic history of elite individuals buried there. In the lab, I love turning complex data into clear stories through maps and plots—data visualization is definitely my happy place. Outside of research, you'll find me watching films (and logging them religiously on Letterboxd), hanging out with friends, spoiling my cat Pato, or out on my bike—road cycling has recently become one of my favorite ways to disconnect and recharge.
+
+[Email](mailto:daniela.orozco@cinvestav.mx)
+
+---
+
+### Octavio Zambada Moreno
+
+![Octavio Zambada Moreno](images/team/Octavio.jpg)
+
+I am a genomic biotechnologist interested in transcriptomics, gene regulation, and systems biology, integrating both bioinformatics and wet-lab approaches. Integrating multi-omics data to better understand and explain complex biological systems is something I am passionate about. For my PhD project, I study immune cell variation in Indigenous Latin American populations by combining single-cell transcriptomics, population genomics, and computational modeling. Through these approaches, I aim to characterize how genetic background influences gene expression programs and immune responses. Outside of research, I enjoy video and board games, volleyball, and discovering and learning about foods and cuisines from around the world.
+
+[Email](mailto:octavio.zambadam@cinvestav.mx) · [Twitter](https://x.com/Octavirus23)
+
+---
+
+## Masters Students
+
+### Ricardo Rodríguez Ojeda
+
+![Ricardo Rodríguez Ojeda](images/team/Ricardo_Rodriguez.png)
+
+I am a Pharmaceutical Chemist Biologist from the University of Guanajuato and a third-semester Master's student in Integrative Biology. I am currently part of Moreno's Lab, where I specialize in computational biology and human population genomics. My research focuses on admixture processes in Mexico, aiming to understand the genetic complexity of Mexican populations by analyzing genomic data to explore demographic history, migration patterns, and the genetic impact of colonization that have shaped contemporary Mexican genetics. Outside of research, I enjoy reading, swimming, exercising, and listening to music.
+
+[Email](mailto:ricardo.rodriguez.o@cinvestav.mx)
+
+---
+
+## Collaborators
+
+- Karla Sandoval — [LANGEBIO-CINVESTAV](#)
+- Cei Abreu — [LANGEBIO-CINVESTAV](http://ceiabreulab.org/)
+- Selene Fernández Valverde — [LANGEBIO-CINVESTAV](http://regrnalab.github.io)
+- María Ávila Arcos — [LIIGH](http://www.liigh.unam.mx/mavila)
+- Diego Cortez — [UNAM](http://www.ccg.unam.mx/en/Genome_Dynamics/TheProgram)
+- Samuel Canizales — [UNAM](http://www.pdcb.unam.mx/tutor/90/canizales-quinteros-samuel)
+- Carlos Bustamante — [Stanford University](https://bustamantelab.stanford.edu/)
+- Mark Stoneking — [Max Planck Institute for Evolutionary Anthropology](http://www.eva.mpg.de/genetics/index.html)
+- Martin Sikora — [Centre for GeoGenetics](http://geogenetics.ku.dk/staff/?pure=en/persons/475540)
+- Elena Bosch — [Institut de Biologia Evolutiva Barcelona](http://biologiaevolutiva.org/ebosch/)
+- David Comas — [Institut de Biologia Evolutiva Barcelona](http://www.biologiaevolutiva.org/dcomas/)
+- Guido Barbujani — [University of Ferrara](http://www.guidobarbujani.it/index.php/1-genetica)
+- John Novembre — [University of Chicago](http://jnpopgen.org)
+- Simon Gravel — [McGill University](http://simongravel.lab.mcgill.ca/Home.html)
+- Eimear Kenny — [Mount Sinai](http://research.mssm.edu/kennylab/)
+- Anne Stone — [Arizona State University](https://stone.lab.asu.edu/)
+- Mauricio Moraga — [Universidad de Chile](http://www.facso.uchile.cl/antropologia/departamento-de-antropologia/70868/mauricio-leonardo-moraga-vergara)
+- Ricardo Verdugo — [Universidad de Chile](http://genomed.med.uchile.cl/home/)
+- Sandra Romero — [INMEGEN](http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=536)
+- Víctor Acuña — [ENAH](http://www.enah.edu.mx/index.php/moleculab)
+- Lourdes García-García — [INSP](https://siid.insp.mx/v2/linea_investigacion/detalle/investigador/1813)
+- Teresa Tusie-Luna — [INCMNSZ](https://www.biomedicas.unam.mx/personal-academico/maria-teresa-tusie-luna/)
+- Carla Gallo — [Universidad Peruana Cayetano Heredia](http://www.upch.edu.pe/vrinve/investigacion/unmg-bbm)
