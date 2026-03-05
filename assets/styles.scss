@@ -3,8 +3,12 @@ title: false
 styles: true
 ---
 
+// 1. Set the layout variable BEFORE importing the theme
+$width-content: 1200px;
+
 @import "alembic";
 
+// 2. Your custom team styles
 .team-grid {
   display: grid;
   gap: 2.5rem;
@@ -21,6 +25,7 @@ styles: true
   text-align: center;
 }
 
+// Fixed dimensions and object-fit to ensure photos are circular
 .team-card img {
   width: 180px;
   height: 180px;
@@ -43,6 +48,7 @@ styles: true
 .team-pi img {
   width: 220px;
   height: 220px;
+  object-fit: cover;
 }
 
 .links {
@@ -59,9 +65,11 @@ styles: true
   border-radius: 2px;
 }
 
+// 3. Global Width Overrides
+// This expands the container for everyone from Andrés Moreno Estrada to the PhD students
 .unit, .wrapper, .container {
-  max-width: 95% !important; /* Forces the container to be wider */
-  width: 95% !important;     /* Ensures it fills the screen on large monitors */
+  max-width: $width-content !important; 
+  width: 100% !important;     
   margin-left: auto !important;
   margin-right: auto !important;
 }
@@ -69,4 +77,9 @@ styles: true
 /* Ensure the main grid/layout doesn't restrict the width */
 .grid {
   max-width: 100% !important;
+}
+
+/* Forces tables in team.md to use the full 1200px width */
+table {
+  width: 100% !important;
 }

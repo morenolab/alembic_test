@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Message Sent!"
-description: "Thank you for reaching out to the PopGen Lab."
+description: "Thank you for reaching out to the Human PopGen Lab."
 ---
 
 ## Thank you for your interest! 🧬
@@ -12,6 +12,5 @@ We have received your message. Our team is currently reviewing your inquiry and 
 You might find these resources helpful:
 * Check out our [latest publications](/publications)
 * Meet the [lab members](/team)
-* Browse our open-source tools on [GitHub](https://github.com/YourLabGitHub)
 
 [← Back to Home](/)
