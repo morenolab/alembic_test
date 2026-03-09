@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Contact"
-description: "CINVESTAV Sede Sur, Mexico"
-feature_image: "/assets/images/projects_banner.png"
+description: ""
+feature_image: "/assets/images/contact_banner.png"
 order: 7
 ---
 
@@ -89,9 +89,9 @@ We welcome inquiries from researchers, students, and institutions worldwide. Whe
 
 ### 📩 Send us a Message
 
-For general questions or partnership proposals, please use the form below or contact us at: **popgenlab@cinvestav.mx**.
+For general questions or partnership proposals, please use the form below or contact us at [popgenlab@cinvestav.mx](mailto:popgenlab@cinvestav.mx).
 
-<form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" class="contact-form">
+<form action="https://formspree.io/f/xojkjzpo" method="POST" class="contact-form">
   <label for="full-name">Full Name</label>
   <input type="text" name="name" id="full-name" placeholder="Dr. Alex Smith" required>
 
@@ -111,7 +111,7 @@ For general questions or partnership proposals, please use the form below or con
 
   <button type="submit">Send Message</button>
 
-  <input type="hidden" name="_next" value="https://yourwebsite.com/thank-you">
+  <input type="hidden" name="_next" value="https://localhost:4000/thank-you">
 
 </form>
 
